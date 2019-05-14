@@ -11,8 +11,6 @@ The course material consisted of how to:
 
 The course syllabus and assignments are posted to this page.
 
-In the future, example student projects will be posted below.
-
 In the future, a few example assignment outputs will be found below.
 
 
