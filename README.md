@@ -1,4 +1,6 @@
 # OCEAN-340
+
+![alt text](https://github.com/Patrick-Old/OCEAN340/blob/master/uw_ocean.jpg)
 Course material I created, instructed, and graded at the University of Washington in Winter 2019. The course is designed to equip students with the skills needed to conduct sophisticated oceanographic research using Python.
 
 The course material consisted of how to:
